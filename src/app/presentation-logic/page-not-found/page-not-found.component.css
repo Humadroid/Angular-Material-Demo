@@ -1,0 +1,8 @@
+.jumbotron {
+  position: relative;
+  background: #fff url("../../../assets/images/Are-You-Fucking-Kidding-Me.png") center center;
+  width: 50%;
+  height: 50%;
+  background-size: cover;
+  overflow: hidden;
+}
