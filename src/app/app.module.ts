@@ -8,6 +8,7 @@ import { PresentationLogicModule } from './presentation-logic/presentation-logic
 import { HTTP_INTERCEPTORS } from '@angular/common/http';
 import { LoaderInterceptorService } from './business-logic/interceptors/loader-interceptor.service';
 import { SlimLoadingBarModule } from 'ng2-slim-loading-bar';
+import { AngularFontAwesomeModule } from 'angular-font-awesome';
 
 @NgModule({
   declarations: [
@@ -15,6 +16,7 @@ import { SlimLoadingBarModule } from 'ng2-slim-loading-bar';
   ],
   imports: [
     BrowserModule,
+    AngularFontAwesomeModule,
     SlimLoadingBarModule.forRoot(),
     AppRoutingModule,
     BrowserAnimationsModule,
