@@ -5,6 +5,7 @@ node_js :
 before_script:
   - npm install -g --silent firebase-tools
   - npm install -g --silent @angular/cli
+  - npm install -g --silent bootstrap
 
 script:
   - ng build --prod
