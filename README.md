@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/Humadroid/Angular-Material-Demo.svg?branch=master)](https://travis-ci.org/Humadroid/Angular-Material-Demo)
+[![Greenkeeper badge](https://badges.greenkeeper.io/loiane/Angular-Material-Demo.svg)](https://greenkeeper.io/)
 
 # AngularMaterialDemo
 
