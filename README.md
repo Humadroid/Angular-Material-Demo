@@ -2,8 +2,6 @@
 
 # AngularMaterialDemo
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/Humadroid/Angular-Material-Demo.svg)](https://greenkeeper.io/)
-
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.3.
 
 ## Development server
